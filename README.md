@@ -71,28 +71,6 @@ The platform provides a complete healthcare management system with secure authen
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Prescripto/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   └── server.js
-│
-└── README.md
-```
-
----
 
 # 🚀 Live Demo
 

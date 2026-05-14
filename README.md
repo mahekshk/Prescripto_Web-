@@ -1,7 +1,6 @@
 # Prescripto : Connecting You to Trusted Care
 
 ## 🩺 Overview
-
 Prescripto is a modern healthcare appointment booking platform built using the MERN stack. The application helps patients connect with trusted doctors, book appointments online, and manage healthcare services efficiently.
 
 The platform provides a complete healthcare management system with secure authentication, doctor and admin dashboards, appointment scheduling, online payment integration, and responsive user experience.
@@ -11,71 +10,63 @@ The platform provides a complete healthcare management system with secure authen
 # 🚀 Features
 
 ## 👤 Patient Features
-
-* Patient Registration & Login
-* Search Doctors by Specialty
-* Book Doctor Appointments
-* View Appointment History
-* Cancel Appointments
-* Update Patient Profile
-* Secure Online Payments
+- Patient Registration & Login
+- Search Doctors by Specialty
+- Book Doctor Appointments
+- View Appointment History
+- Cancel Appointments
+- Update Patient Profile
+- Secure Online Payments
 
 ## 👨‍⚕️ Doctor Features
-
-* Doctor Authentication
-* Manage Appointments
-* Update Availability Status
-* View Earnings Dashboard
-* Manage Doctor Profile
+- Doctor Authentication
+- Manage Appointments
+- Update Availability Status
+- View Earnings Dashboard
+- Manage Doctor Profile
 
 ## 🛡️ Admin Features
-
-* Admin Dashboard
-* Add & Manage Doctors
-* Monitor All Appointments
-* Manage Platform Activities
-* Control Doctor Availability
+- Admin Dashboard
+- Add & Manage Doctors
+- Monitor All Appointments
+- Manage Platform Activities
+- Control Doctor Availability
 
 ## 💳 Payment Gateway Integration
-
-* Stripe Payment Gateway Integration
-* Razorpay Payment Gateway Integration
-* Secure Online Transactions
-* Real-Time Payment Verification
-* Smooth Checkout Experience
+- Stripe Payment Gateway Integration
+- Razorpay Payment Gateway Integration
+- Secure Online Transactions
+- Real-Time Payment Verification
+- Smooth Checkout Experience
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Frontend
-
-* React.js
-* Vite
-* Tailwind CSS
-* Axios
-* React Router DOM
-* React Toastify
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router DOM
+- React Toastify
 
 ## Backend
-
-* Node.js
-* Express.js
-* MongoDB Atlas
-* Mongoose
-* JWT Authentication
-* Cloudinary
-* Multer
-* Stripe API
-* Razorpay API
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- JWT Authentication
+- Cloudinary
+- Multer
+- Stripe API
+- Razorpay API
 
 ---
-
 
 # 🚀 Live Demo
 
 ## Live Website
-
 `https://prescripto-web-backend-i26h.onrender.com`
 
 The frontend and backend are deployed together on the same Render service.
@@ -166,68 +157,3 @@ Open a new terminal and run:
 cd frontend
 npm run dev
 ```
-
----
-
-# 🌐 Core Functionalities
-
-* Doctor Appointment Booking
-* Online Payment Processing
-* Doctor Availability Management
-* Admin Dashboard Management
-* Patient Appointment Tracking
-* Secure Authentication System
-* Cloudinary Image Uploads
-* Responsive User Interface
-
----
-
-# 📸 Screenshots
-
-Add screenshots for:
-
-* Home Page
-* Doctor Listing Page
-* Appointment Booking Page
-* Doctor Dashboard
-* Admin Dashboard
-* Payment Page
-
----
-
-# 📈 Future Improvements
-
-* Video Consultation Feature
-* AI Chatbot Support
-* Email Notifications
-* Appointment Reminder System
-* Digital Prescription Uploads
-* Multi-language Support
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Push to GitHub
-6. Create a Pull Request
-
----
-
-# 👨‍💻 Author
-
-**Mahek Shaikh**
-
-* Full Stack Web Developer
-* MERN Stack Developer
-
----
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub.
